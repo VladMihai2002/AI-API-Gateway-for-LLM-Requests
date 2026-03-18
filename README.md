@@ -13,3 +13,9 @@ This project was created as a simple experiment to explore how an API gateway ca
 To run the project, install the dependencies from `requirements.txt`, add your Groq API key in a `.env` file using the variable `GROQ_API_KEY`, and run:
 
 python groq_gateway.py
+
+## Sample Output
+
+Here is a sample output of the integrated benchmarking tool, comparing latency between different Groq models:
+
+![Groq Benchmark Results](benchmark_results.PNG)
