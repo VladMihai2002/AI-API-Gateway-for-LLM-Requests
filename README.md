@@ -18,4 +18,4 @@ python groq_gateway.py
 
 Here is a sample output of the integrated benchmarking tool, comparing latency between different Groq models:
 
-![Groq Benchmark Results](benchmark_results.PNG)
+![Groq Benchmark Results](benchmark_results.png)
